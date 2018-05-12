@@ -1,4 +1,8 @@
 _repo: The-Unknown-A-Play-in-Three-Acts_49771
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49771-h/images/cover.jpg
 creator:
   author:
     agent_name: Maugham, W. Somerset (William Somerset)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/126
     wikipedia: http://en.wikipedia.org/wiki/W._Somerset_Maugham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49771#The-Unknown-A-Play-in-Three-Acts
 gutenberg_issued: '2015-08-24'
 gutenberg_type: Text
 identifiers:
